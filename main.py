@@ -15,3 +15,4 @@ print("")
 print("The sum of the four numbers is: ", sum)
 print("")
 print("The average of the four numbers is: ", avg)
+
